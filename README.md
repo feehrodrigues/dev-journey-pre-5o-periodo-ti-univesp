@@ -1,4 +1,3 @@
-# dev-journey-pre-5o-periodo-ti-univesp
 # 🚀 My Developer Journey
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-blue)
@@ -53,13 +52,7 @@ Para cada tópico, sigo um ciclo disciplinado:
 ## 📬 Contato
 
 <!-- Substitua pelo seu nome e links! -->
-Feito com ❤️ por **Felipe**. Vamos nos conectar!
+Feito com ❤️ por **[Seu Nome Aqui]**. Vamos nos conectar!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipefeehr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/feehrodrigues" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefeehr/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feehrodrigues)
