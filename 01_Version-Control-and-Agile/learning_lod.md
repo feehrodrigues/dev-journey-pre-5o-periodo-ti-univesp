@@ -9,8 +9,11 @@
 ## 💡 Principais Aprendizados
 
    [Ponto chave 1 que você aprendeu com o vídeo de Git. Ex Entendi que 'commit' é salvar localmente e 'push' é enviar para o servidor.]
+   
    [Ponto chave 2 que você aprendeu com o vídeo de Scrum. Ex A ideia de 'sprint' faz sentido para focar em tarefas pequenas e entregar rápido.]
+   
    [Descobri que o Linux foi criado pelo mesmo criador do Git, Linus Torvalds.]
+   
    [Aprendi diversos comandos do git, e descobri que existem comandos mais complexos]
    [Aprendi que o Scrum é um framework, quase como uma metodologia, já com boas práticas para gerenciamento de projetos, e que funciona bem conjuntamente com o controle de versão (Github)]
    [Associei o Scrum com uma plataforma já conhecida: o Jira (Atlassian). Mas ainda preciso aprender mais sobre o Scrum, para entender melhor e ainda preciso entender melhor o conceito de framework]
