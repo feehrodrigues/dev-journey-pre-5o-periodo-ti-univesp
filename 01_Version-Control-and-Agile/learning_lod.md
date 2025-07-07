@@ -2,8 +2,8 @@
 
 ## 📚 Fontes de Estudo
 
-   Vídeo Prático 1 (Ação) [Título do Vídeo sobre GitGitHub](https://www.youtube.com/watch?v=-l4Aa8wef8s)
-   Vídeo Prático 2 (Ação) [Título do Vídeo sobre GitGitHub](https://www.youtube.com/watch?v=pyM5QLS2h6M)
+   Vídeo Prático 1 (Ação) [Aprenda Git e Github em 5 minutos](https://www.youtube.com/watch?v=-l4Aa8wef8s)
+   Vídeo Prático 2 (Ação) [APRENDA GIT E GITHUB DO ZERO](https://www.youtube.com/watch?v=pyM5QLS2h6M)
    Vídeo Teórico (Contexto) [Título do Vídeo sobre Scrum](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## 💡 Principais Aprendizados
